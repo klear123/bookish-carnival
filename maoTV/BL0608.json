@@ -213,7 +213,7 @@
         {
           "name": "redirect",
           "urls": [
-            "网上自己找"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rbGVhcjEyMy5naXRodWIuaW8vYm9va2lzaC1jYXJuaXZhbC9tYW9UVi9saXZlLnR4dA=="
           ]
         }
       ]
